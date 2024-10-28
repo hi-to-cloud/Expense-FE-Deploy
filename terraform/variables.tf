@@ -22,3 +22,5 @@ variable "common_tags" {
 variable "zone_name" {
   default = "step-into-iot.cloud"
 }
+
+variable "app_version" {}
